@@ -1,6 +1,6 @@
 {
   "name": "create-fehujs-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create a Fehujs app",
   "main": "index.js",
   "bin": {
@@ -24,7 +24,7 @@
     "url": "https://github.com/fehujs/create-fehujs-app/issues"
   },
   "homepage": "https://github.com/fehujs/create-fehujs-app#readme",
-  "devDependencies": {
+  "dependencies": {
     "prompts": "^2.4.2"
   }
 }
